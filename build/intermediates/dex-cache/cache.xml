@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/b06364050308cff40472771b02c052da0aaf3b6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88e0ced658fbb6a4fccc0c53df6f543cc81b07c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/e6600d517271cee8be3147b55ae447854c1cfb9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_683ada2aed5ca1566c85eebc504d1c3523cf2d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/294261c97570983a5ae1e0b4334f72833a066aee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed7c3354b2c022a68c4c6011bf8da58f9c0bea4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/17fa35f51f994ba1c49856331e74799eaf9be93a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d35d8ce7331402e230ee99bb68cbeab3e20fcfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/f9461c0e20455f9b16ef3a5978d5083f5dac199a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_473f3bffa2babee9bba9d833f8ba483e7b6faa9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Transcend/AndroidStudio/android-sdk-macosx/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_45a20ce855230bd85ccd8286741b3b78e313c3ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/ed9c3f176336ec4cad15207fb8dbdc3bf205bae0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bda4b37728258f86633a39dcc0c18e2dac0b2e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/0d05f04d22f6bd6e6fe6f9f3d518d3a6fe03f170/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ce11374882faf556578ebe789e0c4467056c46c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/1353be42cc83f96aaa939a597c6f57aa0a0fede4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45ed0af518c7e1bb7f9fedd7938f690876041036/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4ecb8533b427d8c624ecbf6fd53e56dd78c8938d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/229abd8e403ad4da1c5dbc7471f4bb88e634e5cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d03309d400a30ee2448693e64ba0276e186078b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/5d7f6a0ddacc8f728c3d5945420f7815ff5d5a81/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73c60909122f6f183eac99b72d7b81aaab94019d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="39365c895fa5c48e63a54c8c816165922febb15a">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcefb8b49c759cd693713b3cfe34c08056866db7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/6586aae1063a92ba1d0b1d20b59fed9b3b66fa44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f20053e6133112e6d21b651397c09f70d4d3eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/c750c7ce6edd216f0db62321cf51593ee81ec878/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2d9c59f76abc13d81993ab1fd8b2e60319694e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Transcend/AndroidStudio/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_4146083aec377166b656bb961939dfe51a678279/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/5dd6b9729e70f772a1dc4923825681e2298debf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c67bb20ce76f724ded8dcf42da5941520f77c87c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zafarhussain/.android/build-cache/def55915cb9bb5bc075242f6977ea02541d135c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/zafarhussain/Desktop/LifeDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac308a0b6642366e0b293e55fffa305ceb6057c5/classes.dex" />
+    </item>
+
+</items>

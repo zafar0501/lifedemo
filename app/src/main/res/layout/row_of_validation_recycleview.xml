@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/validation_linearlayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom=".5dp"
+    android:background="@color/tomato"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="horizontal"
+
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/txt_validation_item_row_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight=".8"
+        android:padding="10dp"
+        android:text="Validation Error"
+        android:textColor="@android:color/white"
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/txt_validation_item_row_close"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight=".2"
+        android:padding="10dp"
+        android:text="Cancel"
+        android:textColor="@color/white"
+        android:textSize="14dp"
+        android:visibility="visible" />
+</LinearLayout>

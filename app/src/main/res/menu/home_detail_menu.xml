@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_home_detail"
+        android:icon="@drawable/ic_home_unhighlight"
+        android:title="@string/home"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_detail_notes"
+        android:icon="@drawable/ic_notes_unhighlight"
+        android:title="@string/notes"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_detail_goal"
+        android:icon="@drawable/ic_goal_unhighlight"
+        android:title="@string/goals"
+        app:showAsAction="ifRoom" />
+
+</menu>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/swipe_layout_notes_list_item_row"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/rl_notes_section_item_rear_right_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_orange_dark"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/right_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:src="@drawable/ic_archive_white_24dp" />
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+       >
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img_notes_list_item_row_profile"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignTop="@+id/ll_notes_list_item_name_status"
+            android:layout_marginRight="10dp"
+            android:contentDescription="@string/profilePic"
+            android:src="@drawable/default_profile_pic"
+            app:civ_border_color="@color/pinkishGray"
+            app:civ_border_width="1dp" />
+
+        <TextView
+            android:id="@+id/txt_notes_list_item_row_goal_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/img_notes_list_item_row_profile"
+            android:text="Goal Type"
+            android:textColor="@color/warnGray"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txt_notes_list_item_row_goal_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_notes_list_item_row_goal_type"
+            android:layout_toRightOf="@id/img_notes_list_item_row_profile"
+            android:ellipsize="end"
+            android:maxLines="3"
+            android:scrollHorizontally="true"
+            android:text="Goal Title goes here"
+            android:textColor="@color/gunMetal"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:id="@+id/ll_notes_list_item_name_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_notes_list_item_row_goal_title"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@id/img_notes_list_item_row_profile"
+
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/txt_notes_list_item_row_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txt_notes_list_item_row_goal_title"
+                android:layout_marginRight="5dp"
+                android:layout_toRightOf="@id/img_notes_list_item_row_profile"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:paddingRight="5dp"
+                android:text="Name of the Person "
+                android:textColor="@color/charcoalGrey"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_notes_list_item_row_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@+id/txt_notes_list_item_row_name"
+                android:background="@color/midGreen"
+                android:paddingBottom="2dp"
+                android:paddingLeft="4dp"
+                android:paddingRight="4dp"
+                android:paddingTop="2dp"
+                android:text="On Track"
+                android:textColor="@android:color/white"
+                android:textSize="12dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txt_notes_list_item_row_date_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/ll_notes_list_item_name_status"
+            android:layout_toRightOf="@id/img_notes_list_item_row_profile"
+            android:text="Date and time"
+            android:textColor="@color/warnGray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/txt_notes_list_item_row_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_notes_list_item_row_date_time"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@id/img_notes_list_item_row_profile"
+            android:paddingBottom="5dp"
+            android:paddingRight="0dp"
+            android:text="Bacon ipsum dolor amet alcatra doner kevin pork chop fatback shankle tongue brisket. Kielbasa sirloin picanha fatback meatloaf doner pastrami rump andouille sausage tri-tip pork belly turkey. Landjaeger brisket frankfurter sirloin chicken kevin turducken ham. Corned beef alcatra prosciutto frankfurter salami spare ribs pastrami turkey capicola kielbasa bacon sausage. Pancetta chuck andouille pork chop bresaola short loin."
+            android:textColor="@color/steel"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height=".4dp"
+        android:background="@color/pinkishGray" />
+
+</FrameLayout>

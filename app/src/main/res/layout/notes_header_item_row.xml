@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/paleGrey"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="10dp"
+    android:paddingTop="5dp"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/txt_notes_header_item_row_current_date"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_weight=".8"
+        android:gravity="center_vertical"
+        android:text="DECEMBER 27TH"
+        android:textColor="@color/steel"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/img_notes_header_item_row_archive_current_date_notes"
+        android:layout_width="0dp"
+        android:layout_height="24dp"
+        android:layout_gravity="right"
+        android:layout_marginRight="2dp"
+        android:layout_weight=".3"
+        android:src="@drawable/check_sweep" />
+
+</LinearLayout>

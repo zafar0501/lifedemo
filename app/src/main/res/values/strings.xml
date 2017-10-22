@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ETW</string>
+
+    <!-- -->
+    <string name="companyId">company id</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="useTouchId">Use fingerprint authentication</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="forgotLoginInfo">  Forgot login information? </string>
+    <string name="ETWLoginLogo">ETW Login Logo</string>
+
+    <string name="home">Home</string>
+    <string name="notes">Notes</string>
+    <string name="goals">Goals</string>
+    <string name="archive">Archive</string>
+    <string name="notesnull">""</string>
+
+    <string name="goal">Goal</string>
+    <string name="setting">Settings</string>
+    <string name="getHelp">Get Help</string>
+    <string name="signOut">Sign out</string>
+
+    <string name="close">CLOSE</string>
+    <string name="open">Open</string>
+
+    <string name="notesSubTitle">Recent note entries added to your assigned goals</string>
+    <string name="goalSubTitle">A list of goals that are assigned to you to complete</string>
+
+    <string name="noRecords">No records found</string>
+
+    <string name="history">History</string>
+    <string name="profilePic">Profile Pic</string>
+
+</resources>
