@@ -31,6 +31,7 @@ public class HomeActivity extends BaseActivity implements NavigationView.OnNavig
     private BottomNavigationView bnvFooter;
 
 // Deve branch created
+    // Hello
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
