@@ -44,6 +44,7 @@ public class HomeActivity extends BaseActivity implements NavigationView.OnNavig
         //M4
         //M5
         //M6
+        //M7
 
     }
 
