@@ -1,0 +1,9 @@
+
+Wsquid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ψ½­δώÿÿÿÿ
+P"squid:SwitchLastCaseIsDefaultCheck4""Add a default case to this switch.(ΎΔΩ
+U"squid:SwitchLastCaseIsDefaultCheckK""Add a default case to this switch.(ψε΄΅ÿÿÿÿÿ
+bsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(ζ‚¬Ω
+msquid:S00116"URename this field "tool_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(λχώ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²®οΏ
+Vsquid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³π‹G
+ksquid:UselessImportCheck"BRemove this unused import 'ness.com.etw.common.base.BaseFragment'.(άσχωÿÿÿÿ

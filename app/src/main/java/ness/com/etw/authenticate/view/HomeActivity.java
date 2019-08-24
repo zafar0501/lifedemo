@@ -35,7 +35,7 @@ public class HomeActivity extends BaseActivity implements NavigationView.OnNavig
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         InitView();
-        // update by Raja Now
+        // Commit from Master by Zafaar
 
     }
 
