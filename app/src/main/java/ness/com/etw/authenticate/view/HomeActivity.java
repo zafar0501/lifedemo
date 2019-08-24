@@ -29,8 +29,7 @@ public class HomeActivity extends BaseActivity implements NavigationView.OnNavig
 
     private TextView tool_title;
     private BottomNavigationView bnvFooter;
-    //R1
-    //R2
+
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
@@ -44,6 +43,7 @@ public class HomeActivity extends BaseActivity implements NavigationView.OnNavig
         //M3
         //M4
         //M5
+        //M6
 
     }
 
