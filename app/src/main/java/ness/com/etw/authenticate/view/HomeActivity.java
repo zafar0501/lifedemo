@@ -30,7 +30,10 @@ public class HomeActivity extends BaseActivity implements NavigationView.OnNavig
     private TextView tool_title;
     private BottomNavigationView bnvFooter;
 
-
+//R1
+    //R2
+      //R3
+    
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
