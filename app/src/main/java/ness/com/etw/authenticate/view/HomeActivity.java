@@ -36,6 +36,8 @@ public class HomeActivity extends BaseActivity implements NavigationView.OnNavig
         super.onCreate(savedInstanceState);
         InitView();
         // Commit from Master by Zafar Hussain
+        // B1 
+        //B2
 
     }
 
