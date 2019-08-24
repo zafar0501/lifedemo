@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: de.hdodenhof:circleimageview:2.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/6b2beba0bc0efa888411fd2168f4482ca8299a6d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/6b2beba0bc0efa888411fd2168f4482ca8299a6d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
