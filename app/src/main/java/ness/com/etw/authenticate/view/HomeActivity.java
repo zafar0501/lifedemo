@@ -30,7 +30,6 @@ public class HomeActivity extends BaseActivity implements NavigationView.OnNavig
     private TextView tool_title;
     private BottomNavigationView bnvFooter;
 
-    // Deve branch created
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
